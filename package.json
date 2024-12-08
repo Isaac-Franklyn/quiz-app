@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Isaac-Franklyn/quiz-app/issues"
   },
-  "homepage": "https://github.com/Isaac-Franklyn/quiz-app#readme"
+  "homepage": "https://github.com/Isaac-Franklyn/quiz-app#readme",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
 }
