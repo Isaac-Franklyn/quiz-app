@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Isaac-Franklyn/quiz-app#readme",
   "dependencies": {
+    "socket.io": "^4.8.1",
     "typescript": "^5.7.2"
   }
 }
